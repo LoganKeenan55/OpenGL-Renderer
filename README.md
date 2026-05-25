@@ -6,7 +6,7 @@ Features:
 - Perspective camera
 - Model/view/projection transformations
 - Texture mapping
-- Phong lighting
+- Phong lighting w/ specular maps support
 - Point / spotlight / direct lighting
 
 <img width="1904" height="1072" alt="image" src="https://github.com/user-attachments/assets/dffdef08-6665-444e-bc8b-4ee7156cac7c" />
